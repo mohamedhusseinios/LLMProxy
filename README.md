@@ -1,5 +1,9 @@
 # LLMProxy
 
+<p align="center">
+  <img src="docs/logo.png" alt="LLMProxy Logo" width="200"/>
+</p>
+
 LLMProxy is a native macOS application that acts as a GUI wrapper for the [LiteLLM](https://github.com/BerriAI/litellm) Python library. It allows you to easily start a local server that proxies requests to non-OpenAI models (like Gemini, Anthropic, etc.) so they can be used in tools that expect an OpenAI-compatible API (like Xcode Intelligence, Cursor, etc.).
 
 ## Features
